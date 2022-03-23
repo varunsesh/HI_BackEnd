@@ -1,9 +1,9 @@
 module.exports = {
  'connection':{
-  'host':'localhost',
-  'user':'root1',
-  'password':''
+  'host':'127.0.0.1',
+  'user':'root',
+  'password':'ChoosePassword'
  },
- 'database':'nodejs_login',
+ 'database':'HealthForm',
  'user_table':'users'
 }
